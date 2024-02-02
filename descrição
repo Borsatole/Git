@@ -1,0 +1,32 @@
+Criando um ambiente de trabalho (consulte também: git help tutorial)
+
+clone: Cloneia um repositório em um novo diretório.
+init: Cria um repositório Git vazio ou reinicializa um existente.
+Trabalhando na alteração atual (consulte também: git help everyday)
+
+add: Adiciona o conteúdo do arquivo ao índice.
+mv: Move ou renomeia um arquivo, diretório ou link simbólico.
+restore: Restaura arquivos da árvore de trabalho.
+rm: Remove arquivos da árvore de trabalho e do índice.
+Examinando o histórico e o estado (consulte também: git help revisions)
+
+bisect: Usa pesquisa binária para encontrar o commit que introduziu um bug.
+diff: Mostra as alterações entre commits, commit e árvore de trabalho, etc.
+grep: Imprime linhas correspondentes a um padrão.
+log: Mostra logs de commit.
+show: Mostra vários tipos de objetos.
+status: Mostra o status da árvore de trabalho.
+Desenvolvendo, marcando e ajustando seu histórico comum
+
+branch: Lista, cria ou exclui branches.
+commit: Registra alterações no repositório.
+merge: Une dois ou mais históricos de desenvolvimento.
+rebase: Reaplica commits em cima de outra ponta base.
+reset: Redefine o HEAD atual para o estado especificado.
+switch: Alterna branches.
+tag: Cria, lista, exclui ou verifica um objeto de tag assinado com GPG.
+Colaborando (consulte também: git help workflows)
+
+fetch: Baixa objetos e refs de outro repositório.
+pull: Busca e integra-se com outro repositório ou uma branch local.
+push: Atualiza refs remotos junto com objetos associados.
